@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc42c141946b43f4b39b963a375783d3, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  _damage: 1
+  _health: 5
+  _maxFood: 10
+  _hitRadius: 2
+  _targetsHitMax: 3
